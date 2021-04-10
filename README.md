@@ -9,6 +9,12 @@ I'm learning front-end development.
   <a href="https://www.linkedin.com/in/d%C3%A9rik-figueiredo-570079186/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/>
   </a>
+   <a href="https://wa.me/5566996114623">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+   <a href="">
+      <img src="https://img.shields.io/badge/Portf%C3%B3lio-lightgrey?style=for-the-badge&logo={ICON}&logoColor=white"/>
+  </a>
 </p>
 
 
@@ -26,3 +32,4 @@ I'm learning front-end development.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react)
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikfigueiredo&theme=blue-green"/>
