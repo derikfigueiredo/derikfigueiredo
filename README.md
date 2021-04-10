@@ -3,7 +3,7 @@
 
 I'm learning front-end development.
 <p>
-  <a href="mailto:derikdeewkb@gmail.com">
+  <a href="mailto:derikdeewk@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/d%C3%A9rik-figueiredo-570079186/">
