@@ -17,13 +17,15 @@ I'm learning front-end development.
   </a>
 </p>
 
+  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikfigueiredo&theme=dracula">
+
 
 ### 👨‍💻 About me 
 
-:earth_americas: I'm from Torixoréu, Mato Grosso;  
-🌱 I am currently learning JavaScript and react;  
-:mortar_board: Studying Analysis and Systems Development;  
-👷‍♂️: looking for a job;
+:house_with_garden: I'm from Torixoréu, Mato Grosso;  
+:blue_book: I am currently learning HTML, CSS, JavaScript and React;  
+:mortar_board: I'm studying Analysis and Systems Development;  
+:briefcase: I am looking for a job opportunity;
 
 ### ⚡ Main technologies
 
@@ -32,4 +34,3 @@ I'm learning front-end development.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react)
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikfigueiredo&theme=blue-green"/>
