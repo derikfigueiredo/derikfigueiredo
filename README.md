@@ -14,7 +14,7 @@ A front-end developer who is looking for knowledge and experience.
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
    <a href="">
-      <img src="https://img.shields.io/badge/Portf%C3%B3lio-lightgrey?style=for-the-badge&logo={ICON}&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=data"/>
   </a>
 </p>
 
