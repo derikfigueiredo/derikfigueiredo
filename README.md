@@ -1,7 +1,8 @@
 
-##  Hello  `< Developer />`  💻
+##  Hi there, I'm Dérik  💻 :boy:
 
-I'm learning front-end development.
+A front-end developer who is looking for knowledge and experience.
+
 <p>
   <a href="mailto:derikdeewk@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -18,8 +19,7 @@ I'm learning front-end development.
 </p>
 
   <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikfigueiredo&theme=dracula">
-
-
+  
 ### 👨‍💻 About me 
 
 :house_with_garden: I'm from Torixoréu, Mato Grosso;  
