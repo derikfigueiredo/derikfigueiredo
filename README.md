@@ -23,7 +23,7 @@ A front-end developer who is looking for knowledge and experience.
 ### 👨‍💻 About me 
 
 :house_with_garden: I'm from Torixoréu, Mato Grosso;  
-:blue_book: I am currently learning HTML, CSS, JavaScript and React;  
+:blue_book: I am currently learning HTML, CSS and JavaScript;  
 :mortar_board: I'm studying Analysis and Systems Development;  
 :briefcase: I am looking for a job opportunity;
 
@@ -32,5 +32,3 @@ A front-end developer who is looking for knowledge and experience.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react)
-
