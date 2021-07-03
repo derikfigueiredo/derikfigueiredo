@@ -24,7 +24,6 @@ A front-end developer who is looking for knowledge and experience.
 
 :house_with_garden: I'm from Torixoréu, Mato Grosso;  
 :blue_book: I am currently learning HTML, CSS and JavaScript;  
-:mortar_board: I'm studying Analysis and Systems Development;  
 :briefcase: I am looking for a job opportunity;
 
 ### ⚡ Main technologies
